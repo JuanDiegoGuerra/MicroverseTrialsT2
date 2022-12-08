@@ -1,0 +1,27 @@
+html,
+body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #009f6a;
+  font-family:'Courier New', Courier, monospace;
+  line-height: 1;
+}
+
+#navbar {
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: 5px solid;
+  border-color: hsl(0, 100%, 50%);
+}
+
+header {
+  color: gold;
+  margin: 10px;
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: thin;
+}
